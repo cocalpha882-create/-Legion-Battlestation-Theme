@@ -1,0 +1,34 @@
+{
+  "master": "remotion/out/Vox2Spice-voiced.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "remotion/out/Vox2Spice-voiced.mp4",
+    "out": "vox-shorts/vox-2-spice/output/vox-2-spice-sfx - refined_1.mp4",
+    "end_s": 40.5,
+    "duck": true
+  },
+  "note": "Spice trade palette (distinct from coffee): knock-solid sack thuds instead of cup impacts, launch-thump cannon instead of stamp-hit for the fort, whoosh-reverse for the camera returning home. Hero moments: cannon on the fort placing, impact-soft on 'Modern world.'. Cue times derive from Vox2Spice.tsx CUE frames, keyed to real ElevenLabs word times. Chip pop/reveal SFX removed.",
+  "events": [
+    { "at_s": 0.6, "sfx_id": "knock-solid", "gain_db": -10, "shot": "hook", "cue": "pepper sack places center (f18)" },
+
+    { "at_s": 4.33, "sfx_id": "whoosh-wind", "gain_db": -11, "shot": "origin", "cue": "camera pans left to Malabar Coast (f130)" },
+    { "at_s": 5.5, "sfx_id": "page-flip", "gain_db": -9, "shot": "origin", "cue": "map 'place' lands (f165) — paper unfolding, diegetic" },
+    { "at_s": 6.83, "sfx_id": "whoosh-soft", "gain_db": -13, "optional": true, "shot": "origin", "cue": "peppercorn branch slides in (f205)" },
+
+    { "at_s": 10.6, "sfx_id": "whoosh-wind", "gain_db": -11, "shot": "trade", "cue": "camera pans right across the ocean (f318)" },
+    { "at_s": 13.17, "sfx_id": "pencil-scribble", "gain_db": -9, "shot": "trade", "cue": "dashed route draws Malabar -> Venice, on 'deserts' (f395-450) — diegetic, this IS the action" },
+    { "at_s": 15.0, "sfx_id": "whoosh-soft", "gain_db": -13, "optional": true, "shot": "trade", "cue": "ship cutout sails along route (f450)" },
+
+    { "at_s": 19.2, "sfx_id": "whoosh-soft", "gain_db": -10, "shot": "dominion", "cue": "Vasco da Gama ship arrives (f576)" },
+    { "at_s": 19.33, "sfx_id": "riser-soft", "gain_db": -12, "shot": "dominion", "cue": "tension under 'Kings sent fleets' — builds into the cannon", "note": "HERO 1a — build" },
+    { "at_s": 25.5, "sfx_id": "stamp-hit", "gain_db": -6, "shot": "dominion", "cue": "SEIZED stamp slams on 'seized' (f765)", "note": "HERO 1b — drop. The scene's whole point lands here." },
+
+    { "at_s": 26.8, "sfx_id": "whoosh-soft", "gain_db": -13, "optional": true, "shot": "exchange", "cue": "camera settles for the fort (f804)" },
+    { "at_s": 28.2, "sfx_id": "launch-thump", "gain_db": -8, "shot": "exchange", "cue": "fort places with cannon boom, on 'empires' (f846)", "note": "HERO 2 — the fort lands" },
+    { "at_s": 31.17, "sfx_id": "impact-soft", "gain_db": -8, "shot": "exchange", "cue": "'Modern world.' lands + highlight sweeps (f935)", "note": "HERO 3 — the line's payoff" },
+
+    { "at_s": 34.2, "sfx_id": "whoosh-reverse", "gain_db": -13, "optional": true, "shot": "today", "cue": "camera pulls home to page-1 wide (f1026-1050)" },
+    { "at_s": 34.5, "sfx_id": "knock-solid", "gain_db": -10, "shot": "today", "cue": "pepper sack returns on 'Today' (f1035)" }
+  ]
+}

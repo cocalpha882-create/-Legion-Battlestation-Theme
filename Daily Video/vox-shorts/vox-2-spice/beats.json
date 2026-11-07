@@ -1,0 +1,525 @@
+{
+  "id": "vox-2-spice",
+  "title": "The Spice Trade: How Pepper Built Empires",
+  "composition": "Vox2Spice",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 40.5
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Pepper wasn't just a spice. It was gold you could eat.",
+      "start": 0.4,
+      "end": 4.02,
+      "words": [
+        {
+          "w": "Pepper",
+          "start": 0.4,
+          "end": 0.737
+        },
+        {
+          "w": "wasn't",
+          "start": 0.806,
+          "end": 1.073
+        },
+        {
+          "w": "just",
+          "start": 1.12,
+          "end": 1.282
+        },
+        {
+          "w": "a",
+          "start": 1.34,
+          "end": 1.364
+        },
+        {
+          "w": "spice.",
+          "start": 1.41,
+          "end": 1.956
+        },
+        {
+          "w": "It",
+          "start": 2.13,
+          "end": 2.246
+        },
+        {
+          "w": "was",
+          "start": 2.281,
+          "end": 2.385
+        },
+        {
+          "w": "gold",
+          "start": 2.455,
+          "end": 2.699
+        },
+        {
+          "w": "you",
+          "start": 2.734,
+          "end": 2.803
+        },
+        {
+          "w": "could",
+          "start": 2.85,
+          "end": 2.977
+        },
+        {
+          "w": "eat.",
+          "start": 3.012,
+          "end": 4.022
+        }
+      ]
+    },
+    {
+      "beat": "origin",
+      "text": "On India's Malabar Coast, black peppercorns grew wild—worth their weight in silver.",
+      "start": 4.6,
+      "end": 9.79,
+      "words": [
+        {
+          "w": "On",
+          "start": 4.6,
+          "end": 4.821
+        },
+        {
+          "w": "India's",
+          "start": 4.89,
+          "end": 5.227
+        },
+        {
+          "w": "Malabar",
+          "start": 5.308,
+          "end": 5.761
+        },
+        {
+          "w": "Coast,",
+          "start": 5.831,
+          "end": 6.144
+        },
+        {
+          "w": "black",
+          "start": 6.179,
+          "end": 6.423
+        },
+        {
+          "w": "peppercorns",
+          "start": 6.481,
+          "end": 6.992
+        },
+        {
+          "w": "grew",
+          "start": 7.038,
+          "end": 7.212
+        },
+        {
+          "w": "wild—worth",
+          "start": 7.259,
+          "end": 8.234
+        },
+        {
+          "w": "their",
+          "start": 8.269,
+          "end": 8.42
+        },
+        {
+          "w": "weight",
+          "start": 8.466,
+          "end": 8.663
+        },
+        {
+          "w": "in",
+          "start": 8.71,
+          "end": 8.78
+        },
+        {
+          "w": "silver.",
+          "start": 8.861,
+          "end": 9.801
+        }
+      ]
+    },
+    {
+      "beat": "trade",
+      "text": "Arab caravans carried them across deserts. Venetian merchants sold them in Europe at a thousand percent markup.",
+      "start": 10.6,
+      "end": 17.56,
+      "words": [
+        {
+          "w": "Arab",
+          "start": 10.6,
+          "end": 10.937
+        },
+        {
+          "w": "caravans",
+          "start": 10.995,
+          "end": 11.494
+        },
+        {
+          "w": "carried",
+          "start": 11.552,
+          "end": 11.842
+        },
+        {
+          "w": "them",
+          "start": 11.865,
+          "end": 11.97
+        },
+        {
+          "w": "across",
+          "start": 12.016,
+          "end": 12.353
+        },
+        {
+          "w": "deserts.",
+          "start": 12.411,
+          "end": 13.015
+        },
+        {
+          "w": "Venetian",
+          "start": 13.456,
+          "end": 13.897
+        },
+        {
+          "w": "merchants",
+          "start": 13.967,
+          "end": 14.385
+        },
+        {
+          "w": "sold",
+          "start": 14.559,
+          "end": 14.826
+        },
+        {
+          "w": "them",
+          "start": 14.861,
+          "end": 14.965
+        },
+        {
+          "w": "in",
+          "start": 15.012,
+          "end": 15.07
+        },
+        {
+          "w": "Europe",
+          "start": 15.14,
+          "end": 15.43
+        },
+        {
+          "w": "at",
+          "start": 15.465,
+          "end": 15.557
+        },
+        {
+          "w": "a",
+          "start": 15.592,
+          "end": 15.616
+        },
+        {
+          "w": "thousand",
+          "start": 15.685,
+          "end": 16.022
+        },
+        {
+          "w": "percent",
+          "start": 16.068,
+          "end": 16.359
+        },
+        {
+          "w": "markup.",
+          "start": 16.405,
+          "end": 17.566
+        }
+      ]
+    },
+    {
+      "beat": "dominion",
+      "text": "Kings sent fleets. Vasco da Gama sailed to Calicut. Portugal, then Holland, then Britain—each seized the spice trade by force.",
+      "start": 19.2,
+      "end": 27.24,
+      "words": [
+        {
+          "w": "Kings",
+          "start": 19.2,
+          "end": 19.539
+        },
+        {
+          "w": "sent",
+          "start": 19.602,
+          "end": 19.789
+        },
+        {
+          "w": "fleets.",
+          "start": 19.843,
+          "end": 20.298
+        },
+        {
+          "w": "Vasco",
+          "start": 20.835,
+          "end": 21.129
+        },
+        {
+          "w": "da",
+          "start": 21.165,
+          "end": 21.209
+        },
+        {
+          "w": "Gama",
+          "start": 21.254,
+          "end": 21.495
+        },
+        {
+          "w": "sailed",
+          "start": 21.54,
+          "end": 21.754
+        },
+        {
+          "w": "to",
+          "start": 21.772,
+          "end": 21.808
+        },
+        {
+          "w": "Calicut.",
+          "start": 21.852,
+          "end": 22.317
+        },
+        {
+          "w": "Portugal,",
+          "start": 22.782,
+          "end": 23.299
+        },
+        {
+          "w": "then",
+          "start": 23.371,
+          "end": 23.514
+        },
+        {
+          "w": "Holland,",
+          "start": 23.576,
+          "end": 23.96
+        },
+        {
+          "w": "then",
+          "start": 24.049,
+          "end": 24.21
+        },
+        {
+          "w": "Britain—each",
+          "start": 24.264,
+          "end": 25.148
+        },
+        {
+          "w": "seized",
+          "start": 25.237,
+          "end": 25.523
+        },
+        {
+          "w": "the",
+          "start": 25.558,
+          "end": 25.612
+        },
+        {
+          "w": "spice",
+          "start": 25.657,
+          "end": 25.916
+        },
+        {
+          "w": "trade",
+          "start": 25.943,
+          "end": 26.122
+        },
+        {
+          "w": "by",
+          "start": 26.148,
+          "end": 26.228
+        },
+        {
+          "w": "force.",
+          "start": 26.291,
+          "end": 27.238
+        }
+      ]
+    },
+    {
+      "beat": "exchange",
+      "text": "The spice trade built empires, drew borders, and launched the modern world.",
+      "start": 26.8,
+      "end": 32.32,
+      "words": [
+        {
+          "w": "The",
+          "start": 26.8,
+          "end": 26.963
+        },
+        {
+          "w": "spice",
+          "start": 27.009,
+          "end": 27.334
+        },
+        {
+          "w": "trade",
+          "start": 27.369,
+          "end": 27.659
+        },
+        {
+          "w": "built",
+          "start": 27.717,
+          "end": 27.973
+        },
+        {
+          "w": "empires,",
+          "start": 28.042,
+          "end": 28.809
+        },
+        {
+          "w": "drew",
+          "start": 28.936,
+          "end": 29.168
+        },
+        {
+          "w": "borders,",
+          "start": 29.215,
+          "end": 29.761
+        },
+        {
+          "w": "and",
+          "start": 29.935,
+          "end": 30.097
+        },
+        {
+          "w": "launched",
+          "start": 30.179,
+          "end": 30.457
+        },
+        {
+          "w": "the",
+          "start": 30.48,
+          "end": 30.55
+        },
+        {
+          "w": "modern",
+          "start": 30.631,
+          "end": 30.956
+        },
+        {
+          "w": "world.",
+          "start": 31.014,
+          "end": 32.326
+        }
+      ]
+    },
+    {
+      "beat": "today",
+      "text": "Today pepper sits on every table. Cheap. Common. And still the king of spices.",
+      "start": 34.2,
+      "end": 40.0,
+      "words": [
+        {
+          "w": "Today",
+          "start": 34.2,
+          "end": 34.548
+        },
+        {
+          "w": "pepper",
+          "start": 34.618,
+          "end": 34.862
+        },
+        {
+          "w": "sits",
+          "start": 34.908,
+          "end": 35.094
+        },
+        {
+          "w": "on",
+          "start": 35.129,
+          "end": 35.21
+        },
+        {
+          "w": "every",
+          "start": 35.291,
+          "end": 35.524
+        },
+        {
+          "w": "table.",
+          "start": 35.57,
+          "end": 36.023
+        },
+        {
+          "w": "Cheap.",
+          "start": 36.348,
+          "end": 36.789
+        },
+        {
+          "w": "Common.",
+          "start": 37.114,
+          "end": 37.637
+        },
+        {
+          "w": "And",
+          "start": 38.02,
+          "end": 38.171
+        },
+        {
+          "w": "still",
+          "start": 38.24,
+          "end": 38.565
+        },
+        {
+          "w": "the",
+          "start": 38.681,
+          "end": 38.798
+        },
+        {
+          "w": "king",
+          "start": 38.867,
+          "end": 39.041
+        },
+        {
+          "w": "of",
+          "start": 39.088,
+          "end": 39.134
+        },
+        {
+          "w": "spices.",
+          "start": 39.192,
+          "end": 40.005
+        }
+      ]
+    }
+  ],
+  "beats": [
+    {
+      "beat": "hook",
+      "at": 0.0,
+      "note": "title + pepper sack on paper, slow push"
+    },
+    {
+      "beat": "origin",
+      "at": 4.6,
+      "note": "map places, Malabar chip pins, peppercorn branch"
+    },
+    {
+      "beat": "trade",
+      "at": 10.6,
+      "note": "dashed route to Venice"
+    },
+    {
+      "beat": "dominion",
+      "at": 19.0,
+      "note": "Vasco da Gama arrives; PORTUGAL → DUTCH → BRITISH chips; stamp slams on 'seized'"
+    },
+    {
+      "beat": "exchange",
+      "at": 26.0,
+      "note": "trading post / fort places; Empires/Borders/Modern world statement"
+    },
+    {
+      "beat": "today",
+      "at": 33.0,
+      "note": "camera returns to page-1 wide; pepper sack + title return = loop to f0"
+    }
+  ],
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}

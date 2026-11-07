@@ -1,0 +1,1 @@
+- [Obsidian vault location](memory/obsidian-vault.md) — The user's Obsidian vault lives at `E:\Obsidian Notes`.

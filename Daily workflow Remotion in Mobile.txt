@@ -1,0 +1,11 @@
+
+1. Start Remotion Studio (PowerShell window 1)
+cd C:\Users\LENOVO\OneDrive\Pictures\Documents\Claude Tools\Daily Video\remotion
+npm run studio
+
+2. Start ngrok tunnel (PowerShell window 2)
+ngrok http 3000
+
+3. Copy the URL ngrok gives you (e.g., https://xxxx.ngrok-free.dev) and open it on your phone.
+
+4. When you’re done, press Ctrl+C in both windows to stop the servers.

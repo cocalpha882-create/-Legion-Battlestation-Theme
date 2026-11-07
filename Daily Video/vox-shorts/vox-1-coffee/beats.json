@@ -1,0 +1,570 @@
+{
+  "id": "vox-1-coffee",
+  "title": "How Coffee Conquered the World",
+  "composition": "Vox1Coffee",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 40.5
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Coffee didn't just conquer your mornings. It conquered the world.",
+      "start": 0.4,
+      "end": 4.56,
+      "words": [
+        {
+          "w": "Coffee",
+          "start": 0.4,
+          "end": 0.761
+        },
+        {
+          "w": "didn't",
+          "start": 0.806,
+          "end": 0.997
+        },
+        {
+          "w": "just",
+          "start": 1.043,
+          "end": 1.2
+        },
+        {
+          "w": "conquer",
+          "start": 1.246,
+          "end": 1.562
+        },
+        {
+          "w": "your",
+          "start": 1.618,
+          "end": 1.719
+        },
+        {
+          "w": "mornings.",
+          "start": 1.765,
+          "end": 2.328
+        },
+        {
+          "w": "It",
+          "start": 2.497,
+          "end": 2.633
+        },
+        {
+          "w": "conquered",
+          "start": 2.689,
+          "end": 3.027
+        },
+        {
+          "w": "the",
+          "start": 3.05,
+          "end": 3.118
+        },
+        {
+          "w": "world.",
+          "start": 3.162,
+          "end": 4.55
+        }
+      ]
+    },
+    {
+      "beat": "origin",
+      "text": "Legend says an Ethiopian goatherd caught his goats dancing after eating strange red berries.",
+      "start": 4.6,
+      "end": 10.56,
+      "words": [
+        {
+          "w": "Legend",
+          "start": 4.6,
+          "end": 4.972
+        },
+        {
+          "w": "says",
+          "start": 5.028,
+          "end": 5.277
+        },
+        {
+          "w": "an",
+          "start": 5.343,
+          "end": 5.423
+        },
+        {
+          "w": "Ethiopian",
+          "start": 5.512,
+          "end": 6.11
+        },
+        {
+          "w": "goatherd",
+          "start": 6.177,
+          "end": 6.572
+        },
+        {
+          "w": "caught",
+          "start": 6.629,
+          "end": 6.831
+        },
+        {
+          "w": "his",
+          "start": 6.854,
+          "end": 6.944
+        },
+        {
+          "w": "goats",
+          "start": 7.0,
+          "end": 7.26
+        },
+        {
+          "w": "dancing",
+          "start": 7.327,
+          "end": 7.766
+        },
+        {
+          "w": "after",
+          "start": 7.834,
+          "end": 8.037
+        },
+        {
+          "w": "eating",
+          "start": 8.093,
+          "end": 8.308
+        },
+        {
+          "w": "strange",
+          "start": 8.386,
+          "end": 8.804
+        },
+        {
+          "w": "red",
+          "start": 8.86,
+          "end": 9.029
+        },
+        {
+          "w": "berries.",
+          "start": 9.085,
+          "end": 10.55
+        }
+      ]
+    },
+    {
+      "beat": "travel",
+      "text": "By the fourteen hundreds, those berries had crossed the Red Sea to Yemen, where Sufi monks brewed them to pray through the night.",
+      "start": 10.6,
+      "end": 17.8,
+      "words": [
+        {
+          "w": "By",
+          "start": 10.6,
+          "end": 10.763
+        },
+        {
+          "w": "the",
+          "start": 10.809,
+          "end": 10.879
+        },
+        {
+          "w": "fourteen",
+          "start": 10.925,
+          "end": 11.297
+        },
+        {
+          "w": "hundreds,",
+          "start": 11.343,
+          "end": 11.9
+        },
+        {
+          "w": "those",
+          "start": 12.109,
+          "end": 12.341
+        },
+        {
+          "w": "berries",
+          "start": 12.4,
+          "end": 12.701
+        },
+        {
+          "w": "had",
+          "start": 12.736,
+          "end": 12.829
+        },
+        {
+          "w": "crossed",
+          "start": 12.876,
+          "end": 13.143
+        },
+        {
+          "w": "the",
+          "start": 13.166,
+          "end": 13.235
+        },
+        {
+          "w": "Red",
+          "start": 13.294,
+          "end": 13.468
+        },
+        {
+          "w": "Sea",
+          "start": 13.526,
+          "end": 13.7
+        },
+        {
+          "w": "to",
+          "start": 13.758,
+          "end": 13.839
+        },
+        {
+          "w": "Yemen,",
+          "start": 13.909,
+          "end": 14.385
+        },
+        {
+          "w": "where",
+          "start": 14.559,
+          "end": 14.768
+        },
+        {
+          "w": "Sufi",
+          "start": 14.826,
+          "end": 15.128
+        },
+        {
+          "w": "monks",
+          "start": 15.186,
+          "end": 15.395
+        },
+        {
+          "w": "brewed",
+          "start": 15.453,
+          "end": 15.697
+        },
+        {
+          "w": "them",
+          "start": 15.72,
+          "end": 15.836
+        },
+        {
+          "w": "to",
+          "start": 15.883,
+          "end": 15.941
+        },
+        {
+          "w": "pray",
+          "start": 15.999,
+          "end": 16.219
+        },
+        {
+          "w": "through",
+          "start": 16.266,
+          "end": 16.44
+        },
+        {
+          "w": "the",
+          "start": 16.463,
+          "end": 16.533
+        },
+        {
+          "w": "night.",
+          "start": 16.579,
+          "end": 17.798
+        }
+      ]
+    },
+    {
+      "beat": "ban",
+      "text": "Rulers panicked. Mecca banned it. So did Cairo. One Ottoman sultan made drinking coffee punishable by death.",
+      "start": 19.2,
+      "end": 26.76,
+      "words": [
+        {
+          "w": "Rulers",
+          "start": 19.2,
+          "end": 19.542
+        },
+        {
+          "w": "panicked.",
+          "start": 19.582,
+          "end": 20.021
+        },
+        {
+          "w": "Mecca",
+          "start": 20.608,
+          "end": 20.843
+        },
+        {
+          "w": "banned",
+          "start": 20.892,
+          "end": 21.117
+        },
+        {
+          "w": "it.",
+          "start": 21.146,
+          "end": 21.381
+        },
+        {
+          "w": "So",
+          "start": 21.655,
+          "end": 21.792
+        },
+        {
+          "w": "did",
+          "start": 21.841,
+          "end": 21.928
+        },
+        {
+          "w": "Cairo.",
+          "start": 21.977,
+          "end": 22.476
+        },
+        {
+          "w": "One",
+          "start": 23.063,
+          "end": 23.317
+        },
+        {
+          "w": "Ottoman",
+          "start": 23.366,
+          "end": 23.64
+        },
+        {
+          "w": "sultan",
+          "start": 23.708,
+          "end": 24.001
+        },
+        {
+          "w": "made",
+          "start": 24.051,
+          "end": 24.207
+        },
+        {
+          "w": "drinking",
+          "start": 24.247,
+          "end": 24.54
+        },
+        {
+          "w": "coffee",
+          "start": 24.589,
+          "end": 25.019
+        },
+        {
+          "w": "punishable",
+          "start": 25.195,
+          "end": 25.664
+        },
+        {
+          "w": "by",
+          "start": 25.694,
+          "end": 25.782
+        },
+        {
+          "w": "death.",
+          "start": 25.84,
+          "end": 26.75
+        }
+      ]
+    },
+    {
+      "beat": "coffeehouse",
+      "text": "It didn't matter. The coffeehouse was born, and with it, a place to trade ideas, gossip, and revolutions.",
+      "start": 26.8,
+      "end": 34.16,
+      "words": [
+        {
+          "w": "It",
+          "start": 26.8,
+          "end": 26.939
+        },
+        {
+          "w": "didn't",
+          "start": 26.971,
+          "end": 27.163
+        },
+        {
+          "w": "matter.",
+          "start": 27.196,
+          "end": 27.558
+        },
+        {
+          "w": "The",
+          "start": 28.114,
+          "end": 28.221
+        },
+        {
+          "w": "coffeehouse",
+          "start": 28.274,
+          "end": 28.798
+        },
+        {
+          "w": "was",
+          "start": 28.83,
+          "end": 28.937
+        },
+        {
+          "w": "born,",
+          "start": 29.001,
+          "end": 29.428
+        },
+        {
+          "w": "and",
+          "start": 29.62,
+          "end": 29.748
+        },
+        {
+          "w": "with",
+          "start": 29.802,
+          "end": 29.952
+        },
+        {
+          "w": "it,",
+          "start": 29.994,
+          "end": 30.218
+        },
+        {
+          "w": "a",
+          "start": 30.411,
+          "end": 30.475
+        },
+        {
+          "w": "place",
+          "start": 30.539,
+          "end": 30.753
+        },
+        {
+          "w": "to",
+          "start": 30.774,
+          "end": 30.828
+        },
+        {
+          "w": "trade",
+          "start": 30.881,
+          "end": 31.159
+        },
+        {
+          "w": "ideas,",
+          "start": 31.212,
+          "end": 31.821
+        },
+        {
+          "w": "gossip,",
+          "start": 31.928,
+          "end": 32.419
+        },
+        {
+          "w": "and",
+          "start": 32.441,
+          "end": 32.58
+        },
+        {
+          "w": "revolutions.",
+          "start": 32.633,
+          "end": 34.15
+        }
+      ]
+    },
+    {
+      "beat": "today",
+      "text": "Today, the world drinks two and a quarter billion cups. Every single day.",
+      "start": 34.2,
+      "end": 39.07,
+      "words": [
+        {
+          "w": "Today,",
+          "start": 34.2,
+          "end": 34.78
+        },
+        {
+          "w": "the",
+          "start": 34.931,
+          "end": 35.048
+        },
+        {
+          "w": "world",
+          "start": 35.106,
+          "end": 35.361
+        },
+        {
+          "w": "drinks",
+          "start": 35.396,
+          "end": 35.651
+        },
+        {
+          "w": "two",
+          "start": 35.698,
+          "end": 35.86
+        },
+        {
+          "w": "and",
+          "start": 35.918,
+          "end": 35.988
+        },
+        {
+          "w": "a",
+          "start": 36.023,
+          "end": 36.046
+        },
+        {
+          "w": "quarter",
+          "start": 36.092,
+          "end": 36.383
+        },
+        {
+          "w": "billion",
+          "start": 36.464,
+          "end": 36.835
+        },
+        {
+          "w": "cups.",
+          "start": 36.905,
+          "end": 37.393
+        },
+        {
+          "w": "Every",
+          "start": 37.834,
+          "end": 38.124
+        },
+        {
+          "w": "single",
+          "start": 38.171,
+          "end": 38.461
+        },
+        {
+          "w": "day.",
+          "start": 38.496,
+          "end": 39.076
+        }
+      ]
+    }
+  ],
+  "beats": [
+    {
+      "beat": "hook",
+      "at": 0.0,
+      "note": "title + cup on paper, slow push"
+    },
+    {
+      "beat": "origin",
+      "at": 4.6,
+      "note": "map places, camera dives, Ethiopia chip pins"
+    },
+    {
+      "beat": "travel",
+      "at": 11.5,
+      "note": "dashed route draws across the Red Sea; Mocha chip"
+    },
+    {
+      "beat": "ban",
+      "at": 19.0,
+      "note": "camera widens; sultan slides in; BANNED stamp slams; city chips"
+    },
+    {
+      "beat": "coffeehouse",
+      "at": 26.0,
+      "note": "archival print places over map; Ideas/Gossip/Revolutions statement"
+    },
+    {
+      "beat": "today",
+      "at": 33.0,
+      "note": "camera returns to page-1 wide; cup + title return = loop to f0"
+    }
+  ],
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}
